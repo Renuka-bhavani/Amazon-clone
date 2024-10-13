@@ -7,4 +7,4 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 . CSS Animations
 
 # Live Link:
-http://127.0.0.1:5500/index.html
+ https://renuka-bhavani.github.io/Amazon-clone/
